@@ -6,6 +6,7 @@ public class RobotHead extends PApplet {
  
 public static void main(String[] args) {
           PApplet.main("robothead.RobotHead");
+	  System.out.println("My new change");
      }
  
      public void settings() {
