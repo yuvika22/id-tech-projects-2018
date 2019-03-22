@@ -10,7 +10,7 @@ public class MyFirstProject extends PApplet {
 	}
 	
 	public void settings(){
-		size (600,600);
+		size (650,650);
 	}
 	
 	public void setup() {
